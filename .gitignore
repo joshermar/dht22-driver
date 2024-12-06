@@ -1,0 +1,5 @@
+dht22.ko
+dht22.mod*
+dht22.o
+modules.order
+Module.symvers
